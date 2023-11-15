@@ -23,11 +23,14 @@ I'm a Android Developer 💻
 ## 💼 Technical Skills
 
 ![Android](https://img.shields.io/badge/android-%42f569.svg?style=for-the-badge&logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-eb34eb.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-2f5287.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/flutter-%232361DAFB.svg?style=for-the-badge&logo=flutter&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-FF6C37.svg?style=for-the-badge&logo=mysql&logoColor=white)
 </br>
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23121011.svg?style=for-the-badge&logo=firebase&logoColor=ebba34)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
