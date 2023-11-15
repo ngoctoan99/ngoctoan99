@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/ngoctoan99" target="_blank" rel="noreferrer"><img src="https://cdn.neowin.com/news/images/uploaded/2021/04/1619644762_github-desktop_story.jpg" alt="my banner"></a>
+  <a href="https://github.com/ngoctoan99" target="_blank" rel="noreferrer"><img src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif" alt="my banner"></a>
 </p>
 <h3 align="center">
 Hi there, I'm <a href="https://github.com/ngoctoan99" target="_blank" rel="noreferrer">Toan</a> 👋
